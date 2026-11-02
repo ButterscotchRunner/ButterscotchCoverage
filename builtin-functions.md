@@ -1,4 +1,4 @@
-**Progress:** 1369/3783 (36.18821041501454%)
+**Progress:** 1370/3783 (36.21464446206714%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -365,7 +365,7 @@
 | `date_leap_year` | 🚫 | GM:S 1.0.98 |  |
 | `date_minute_span` | 🚫 | GM:S 1.0.98 |  |
 | `date_month_span` | 🚫 | GM:S 1.0.98 |  |
-| `date_second_span` | 🚫 | GM:S 1.0.98 |  |
+| `date_second_span` | ✅ | GM:S 1.0.98 |  |
 | `date_time_of` | 🚫 | GM:S 1.0.98 |  |
 | `date_time_string` | 🚫 | GM:S 1.0.98 |  |
 | `date_valid_date` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
