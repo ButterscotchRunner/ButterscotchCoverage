@@ -1,4 +1,4 @@
-**Progress:** 1355/3783 (35.81813375627809%)
+**Progress:** 1369/3783 (36.18821041501454%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -2997,7 +2997,7 @@
 | `texture_prefetch` | 🚫 | GM:S 2.2.1.287 |  |
 | `texturegroup_get_fonts` | 🚫 | GM:S 2.2.1.287 |  |
 | `texturegroup_get_sprites` | 🚫 | GM:S 2.2.1.287 |  |
-| `texturegroup_get_textures` | 🚫 | GM:S 2.2.1.287 |  |
+| `texturegroup_get_textures` | ✅ | GM:S 2.2.1.287 |  |
 | `texturegroup_get_tilesets` | 🚫 | GM:S 2.2.1.287 |  |
 | `uwp_appbar_add_element` | 🚫 | GM:S 2.2.1.287 |  |
 | `uwp_appbar_enable` | 🚫 | GM:S 2.2.1.287 |  |
@@ -3091,25 +3091,25 @@
 | `is_method` | ✅ | GM:S 2.3.0.401 |  |
 | `is_numeric` | ✅ | GM:S 2.3.0.401 |  |
 | `is_struct` | ✅ | GM:S 2.3.0.401 |  |
-| `layer_sequence_create` | 🚫 | GM:S 2.3.0.401 |  |
-| `layer_sequence_destroy` | 🚫 | GM:S 2.3.0.401 |  |
+| `layer_sequence_create` | ✅ | GM:S 2.3.0.401 |  |
+| `layer_sequence_destroy` | ✅ | GM:S 2.3.0.401 |  |
 | `layer_sequence_exists` | 🚫 | GM:S 2.3.0.401 |  |
 | `layer_sequence_get_headdir` | 🚫 | GM:S 2.3.0.401 |  |
-| `layer_sequence_get_headpos` | 🚫 | GM:S 2.3.0.401 |  |
+| `layer_sequence_get_headpos` | ✅ | GM:S 2.3.0.401 |  |
 | `layer_sequence_get_instance` | 🚫 | GM:S 2.3.0.401 |  |
-| `layer_sequence_get_length` | 🚫 | GM:S 2.3.0.401 |  |
+| `layer_sequence_get_length` | ✅ | GM:S 2.3.0.401 |  |
 | `layer_sequence_get_sequence` | 🚫 | GM:S 2.3.0.401 |  |
 | `layer_sequence_get_speedscale` | 🚫 | GM:S 2.3.0.401 |  |
-| `layer_sequence_get_x` | 🚫 | GM:S 2.3.0.401 |  |
-| `layer_sequence_get_y` | 🚫 | GM:S 2.3.0.401 |  |
+| `layer_sequence_get_x` | ✅ | GM:S 2.3.0.401 |  |
+| `layer_sequence_get_y` | ✅ | GM:S 2.3.0.401 |  |
 | `layer_sequence_headdir` | 🚫 | GM:S 2.3.0.401 |  |
 | `layer_sequence_headpos` | 🚫 | GM:S 2.3.0.401 |  |
-| `layer_sequence_is_finished` | 🚫 | GM:S 2.3.0.401 |  |
-| `layer_sequence_is_paused` | 🚫 | GM:S 2.3.0.401 |  |
-| `layer_sequence_pause` | 🚫 | GM:S 2.3.0.401 |  |
-| `layer_sequence_play` | 🚫 | GM:S 2.3.0.401 |  |
+| `layer_sequence_is_finished` | ✅ | GM:S 2.3.0.401 |  |
+| `layer_sequence_is_paused` | ✅ | GM:S 2.3.0.401 |  |
+| `layer_sequence_pause` | ✅ | GM:S 2.3.0.401 |  |
+| `layer_sequence_play` | ✅ | GM:S 2.3.0.401 |  |
 | `layer_sequence_speedscale` | 🚫 | GM:S 2.3.0.401 |  |
-| `layer_sequence_x` | 🚫 | GM:S 2.3.0.401 |  |
+| `layer_sequence_x` | ✅ | GM:S 2.3.0.401 |  |
 | `layer_sequence_y` | 🚫 | GM:S 2.3.0.401 |  |
 | `method` | ✅ | GM:S 2.3.0.401 |  |
 | `method_get_index` | 🚫 | GM:S 2.3.0.401 |  |
@@ -3437,12 +3437,12 @@
 | `sprite_add_ext` | 🚫 | GM 2023.4.0.113 |  |
 | `struct_exists` | ✅ | GM 2023.4.0.113 |  |
 | `struct_foreach` | 🚫 | GM 2023.4.0.113 |  |
-| `struct_get` | 🚫 | GM 2023.4.0.113 |  |
+| `struct_get` | ✅ | GM 2023.4.0.113 |  |
 | `struct_get_from_hash` | ✅ | GM 2023.4.0.113 |  |
 | `struct_get_names` | ✅ | GM 2023.4.0.113 |  |
 | `struct_names_count` | ✅ | GM 2023.4.0.113 |  |
 | `struct_remove` | 🚫 | GM 2023.4.0.113 |  |
-| `struct_set` | 🚫 | GM 2023.4.0.113 |  |
+| `struct_set` | ✅ | GM 2023.4.0.113 |  |
 | `struct_set_from_hash` | ✅ | GM 2023.4.0.113 |  |
 | `variable_clone` | ✅ | GM 2023.4.0.113 |  |
 | `variable_get_hash` | ✅ | GM 2023.4.0.113 |  |
