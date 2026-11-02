@@ -1,4 +1,4 @@
-**Progress:** 147/233 (63.0901287553648%)
+**Progress:** 148/233 (63.519313304721024%)
 
 | GML Variable | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -67,7 +67,7 @@
 | `event_type` | ✅ | GM:S 1.0.98 |  |
 | `fps` | ✅ | GM:S 1.0.98 |  |
 | `friction` | ✅ | GM:S 1.0.98 |  |
-| `game_id` | 🚫 | GM:S 1.0.98 |  |
+| `game_id` | ✅ | GM:S 1.0.98 |  |
 | `gamemaker_pro` | 🚫 | GM:S 1.0.98 |  |
 | `gamemaker_registered` | 🚫 | GM:S 1.0.98 |  |
 | `gravity` | ✅ | GM:S 1.0.98 |  |
