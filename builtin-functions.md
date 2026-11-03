@@ -1,4 +1,4 @@
-**Progress:** 1370/3783 (36.21464446206714%)
+**Progress:** 1376/3783 (36.373248744382764%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -2397,12 +2397,12 @@
 | `matrix_build_projection_ortho` | ✅ | WAD Version 15 |  |
 | `matrix_build_projection_perspective` | 🚫 | WAD Version 15 |  |
 | `matrix_build_projection_perspective_fov` | ✅ | WAD Version 15 |  |
-| `matrix_stack_clear` | 🚫 | WAD Version 15 |  |
-| `matrix_stack_is_empty` | 🚫 | WAD Version 15 |  |
-| `matrix_stack_pop` | 🚫 | WAD Version 15 |  |
-| `matrix_stack_push` | 🚫 | WAD Version 15 |  |
-| `matrix_stack_set` | 🚫 | WAD Version 15 |  |
-| `matrix_stack_top` | 🚫 | WAD Version 15 |  |
+| `matrix_stack_clear` | ✅ | WAD Version 15 |  |
+| `matrix_stack_is_empty` | ✅ | WAD Version 15 |  |
+| `matrix_stack_pop` | ✅ | WAD Version 15 |  |
+| `matrix_stack_push` | ✅ | WAD Version 15 |  |
+| `matrix_stack_set` | ✅ | WAD Version 15 |  |
+| `matrix_stack_top` | ✅ | WAD Version 15 |  |
 | `matrix_transform_vertex` | 🚫 | WAD Version 15 |  |
 | `network_create_server_raw` | 🚫 | WAD Version 15 |  |
 | `network_create_socket_ext` | 🚫 | WAD Version 15 |  |
