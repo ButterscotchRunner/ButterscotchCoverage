@@ -1,4 +1,4 @@
-**Progress:** 1376/3783 (36.373248744382764%)
+**Progress:** 1377/3783 (36.39968279143537%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -3398,7 +3398,7 @@
 | `array_contains` | ✅ | GM 2023.1.0.76 |  |
 | `array_contains_ext` | 🚫 | GM 2023.1.0.76 |  |
 | `array_get_index` | 🚫 | GM 2023.1.0.76 |  |
-| `array_shuffle` | 🚫 | GM 2023.1.0.76 |  |
+| `array_shuffle` | ✅ | GM 2023.1.0.76 |  |
 | `array_shuffle_ext` | 🚫 | GM 2023.1.0.76 |  |
 | `audio_bus_get_emitters` | 🚫 | GM 2023.1.0.76 |  |
 | `audio_play_sound_ext` | 🚫 | GM 2023.1.0.76 |  |
