@@ -1,4 +1,4 @@
-**Progress:** 1377/3783 (36.39968279143537%)
+**Progress:** 1378/3783 (36.42611683848797%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -72,7 +72,7 @@
 | `action_change_object` | ✅ | GM:S 1.0.98 | GM:S 2.3.1.406 |
 | `action_color` | ✅ | GM:S 1.0.98 | GM:S 2.3.1.406 |
 | `action_create_object` | ✅ | GM:S 1.0.98 | GM:S 2.3.1.406 |
-| `action_create_object_motion` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
+| `action_create_object_motion` | ✅ | GM:S 1.0.98 | GM:S 2.3.1.406 |
 | `action_create_object_random` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
 | `action_current_room` | ✅ | GM:S 1.0.98 | GM:S 2.3.1.406 |
 | `action_draw_arrow` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
