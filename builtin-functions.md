@@ -1,4 +1,4 @@
-**Progress:** 1379/3783 (36.452550885540575%)
+**Progress:** 1380/3783 (36.47898493259318%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -3383,7 +3383,7 @@
 | `string_ends_with` | ✅ | GM 2022.11.0.73 |  |
 | `string_ext` | 🚫 | GM 2022.11.0.73 |  |
 | `string_foreach` | 🚫 | GM 2022.11.0.73 |  |
-| `string_join` | 🚫 | GM 2022.11.0.73 |  |
+| `string_join` | ✅ | GM 2022.11.0.73 |  |
 | `string_join_ext` | 🚫 | GM 2022.11.0.73 |  |
 | `string_split` | ✅ | GM 2022.11.0.73 |  |
 | `string_split_ext` | 🚫 | GM 2022.11.0.73 |  |
