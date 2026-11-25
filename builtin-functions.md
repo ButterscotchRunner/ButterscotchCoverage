@@ -1,4 +1,4 @@
-**Progress:** 1380/3783 (36.47898493259318%)
+**Progress:** 1381/3783 (36.50541897964578%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -1401,7 +1401,7 @@
 | `device_ios_get_imagename` | 🚫 | GM:S 1.0.198 | WAD Version 16 |
 | `device_is_keypad_open` | 🚫 | GM:S 1.0.198 |  |
 | `device_mouse_check_button` | ✅ | GM:S 1.0.198 |  |
-| `device_mouse_check_button_pressed` | 🚫 | GM:S 1.0.198 |  |
+| `device_mouse_check_button_pressed` | ✅ | GM:S 1.0.198 |  |
 | `device_mouse_check_button_released` | 🚫 | GM:S 1.0.198 |  |
 | `device_mouse_raw_x` | 🚫 | GM:S 1.0.198 |  |
 | `device_mouse_raw_y` | 🚫 | GM:S 1.0.198 |  |
